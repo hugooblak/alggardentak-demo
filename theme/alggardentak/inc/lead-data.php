@@ -18,7 +18,5 @@ return array(
 		array( 'Älggården Tak har precis målat om min fasad. Normalt sett avskyr jag att anlita hantverkare och gör hellre saker själv, men den här målningen fanns det inte tid till. Resultatet blev kanon, men framför allt var det så lätt och roligt att ha en dialog med Dennis och Bastian på Älggården, under arbetets gång. De verkar g', 'Emma Eriksson', 'för 4 månader sedan' ),
 		array( 'Mycket trevliga att ha att göra med innan arbetet, under arbetet och efteråt likaså. Bra pris för vårt hustak och garagetak. Allt utfördes precis som vi kom överens om samt var de öppna för att göra ytterligare arbete som vi inte kommit överens om innan. Finns inget annat att säga än att Dennis och hans gäng är 5 stjär', 'Conny Enlund', 'för 2 månader sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
