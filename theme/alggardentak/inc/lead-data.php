@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Älggården Tak AB',
+	'bransch'        => 'Takläggare',
 	'telefon'        => '073-696 09 38',
 	'telefon_tel'    => '+46736960938',
 	'ort'            => 'Mälardalen',
